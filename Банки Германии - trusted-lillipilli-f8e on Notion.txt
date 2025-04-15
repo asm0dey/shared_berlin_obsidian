@@ -1,0 +1,14 @@
+# Банки Германии
+
+Date: 2025-04-15T17:24:15.416Z
+Source: trusted-lillipilli-f8e on Notion
+URL: https://trusted-lillipilli-f8e.notion.site/cf12fd62bae34084906c1e1ef39e5acf
+Date saved: 2025-04-15T17:24:15.416Z
+
+> A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team
+
+---
+
+Чем плох не-немецкий IBAN (к примеру, как литовский у Revolut)
+
+Лайфхак: если нужно куда-то ввести литовский IBAN, где требуется немецкий, можно попробовать заменить две последние цифры на XX
